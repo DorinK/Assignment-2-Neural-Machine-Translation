@@ -1,6 +1,8 @@
 # Assignment-2-Neural-Machine-Translation
 Assignment 2: Neural Machine Translation in 'Statistical Machine Translation' course by Roee Aharoni at Bar-Ilan University.
 
+link to the instructions file: https://docs.google.com/document/d/1f1J_eBfLXMaEx5r52xV-LfrnTKJ-qmui7exfA0LNHIg/edit?usp=sharing
+
 In this assignment, I implemented an Neural machine translation (NMT) system using a deep learning framework - PyTorch.
 
 In the 1st part of this exercise, I implemented an RNN based encoder-decoder model for the task of decoding given number sequences into character sequences.
