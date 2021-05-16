@@ -13,4 +13,4 @@ The model I had to build in this part was “Global-Attention” model, accordin
 
 In the 3rd part, I had to analyze the attention weights of the model from Part 2. I added code to the training script, that dumps the attention weights for a specific example from the development set after each epoch. And then, visualizes the attention weights for the example after each epoch using a heatmap plot.
 
-Grade: 100
+Score: 100
